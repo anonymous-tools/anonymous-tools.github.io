@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anonymous Tools</title>
+    <link>https://anonymous.tools/</link>
+    <description>Recent content on Anonymous Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 22:45:12 -0700</lastBuildDate>
+    
+	<atom:link href="https://anonymous.tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi 👋</title>
+      <link>https://anonymous.tools/posts/hi/</link>
+      <pubDate>Thu, 14 Mar 2019 22:45:12 -0700</pubDate>
+      
+      <guid>https://anonymous.tools/posts/hi/</guid>
+      <description>Watch this space for some experimental crypto tools. Just tryna implement some cool cryptographic protocols that i&amp;rsquo;ve been learning.
+~/apps are tools you can play around with.
+~/posts are for write-ups that help me gather my thoughts.</description>
+    </item>
+    
+  </channel>
+</rss>

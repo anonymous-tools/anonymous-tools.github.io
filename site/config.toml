@@ -1,0 +1,41 @@
+baseURL = "https://anonymous.tools/"
+languageCode = "en-us"
+title = "Anonymous Tools"
+
+publishDir = "../docs/"
+
+theme = "mondrian"
+
+# [privacy]
+#   [privacy.disqus]
+#     disable = true
+#   [privacy.googleAnalytics]
+#     disable = true
+#   [privacy.instagram]
+#     disable = true
+#   [privacy.twitter]
+#     disable = true
+#   [privacy.vimeo]
+#     disable = true
+#   [privacy.youtube]
+#     disable = true
+
+
+[params]
+  showHeader = true
+  showTags = true
+  debug = false
+  [params.colors]
+    post = "orangered"
+    page = "gold"
+    sketch = "limegreen"
+
+[menu]
+  [[menu.main]]
+    name = "~/apps"
+    url = "/apps"
+    weight = 2
+  [[menu.main]]
+    name = "~/posts"
+    url = "/posts"
+    weight = 3
